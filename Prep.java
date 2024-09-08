@@ -11,7 +11,7 @@ System.out.println("Element 1-The number 1 is odd : " + (n%2 != 0));
 System.out.println("Element 2-The number 2 is odd : " + (n%2 != 0));
 
 //System.out.println("Element 2 is even : " + (n%2==0));
-
+ 
 System.out.println("Int n = " + n + ": (n**2 + 2n) is an odd number when n = 2 : " + ((n * n + 2 * n)%2 != 0));
 ++n;
 System.out.println("Int n = " + n + ": (n**2 + 2n) is an odd number when n = 3 : " + ((n * n + 2 * n)%2 != 0));
