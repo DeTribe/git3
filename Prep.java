@@ -1,4 +1,4 @@
-/* P(n)=n is an od numbern=1
+/* P(n)=n is an odd numbern=1
 P(n+1)=n+1 is an even number
 n%1=0 = false
 n+1%0 = true */
