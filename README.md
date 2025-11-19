@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Spring Social media blog API
 
 ## Background 
@@ -104,3 +105,6 @@ As a user, I should be able to submit a GET request on the endpoint GET localhos
 - The project was created leveraging the spring framework, including dependency injection, autowire functionality and/or Spring annotations.
 
 # Good luck!
+=======
+# chatconvo
+>>>>>>> eef82a7f14c9d470612fec9b6b61dec59dafaf26
