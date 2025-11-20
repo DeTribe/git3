@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+    <meta name = "description" content = "Page description for SEO">
+    
+<title>JavaScript Truthy/Falsy</title>
+</head>
+<body>
+<!--<h1>Salute life when dawn breaks</h1> -->
+    <p>Falsy values: False, Null, Undefined, 0, NaN, "(Empty String)</p>
+    <p>The value is <span id = "result" ></span>.</p>
+    <script>
+        var elem = document.getElementById("result");
+        
+        var value = "";
+
+        if (value) {
+           elem.innerHTML = "true";
+        }else {
+           elem.innerHTML = "false";
+        }
+    </script>    
+</body>
+</html>
